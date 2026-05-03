@@ -1,0 +1,12 @@
+# Frontend
+ecommerce-ui/node_modules
+ecommerce-ui/dist
+ecommerce-ui/build
+
+# Backend
+ecommerce/target
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
