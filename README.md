@@ -53,6 +53,16 @@ ecommerce/
 
 ---
 
+## 🔗 Application Flow
+
+1. User registers or logs in (JWT authentication)
+2. Frontend (React) sends API requests to backend
+3. Backend (Spring Boot) validates token and processes request
+4. Data is stored/retrieved from MySQL
+5. Response is sent back to frontend and displayed to user
+
+---
+
 ## ⚙️ Tech Stack
 
 ### Backend
