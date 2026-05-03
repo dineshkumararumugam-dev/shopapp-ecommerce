@@ -2,6 +2,8 @@
 
 A full stack ecommerce web application built with **Spring Boot** (backend) and **React + Vite** (frontend), featuring JWT authentication, role-based access control, cart management, and order processing.
 
+
+
 ---
 
 ## 🖥️ Live Demo
@@ -376,9 +378,10 @@ MySQL Database (port 3306)
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/yourprofile)
+ Dineshkumar
+- GitHub: dineshkumararumugam-dev(https://github.com/dineshkumararumugam-dev)
+- LinkedIn: www.linkedin.com/in/dineshkumar242001
+
 
 ---
 
